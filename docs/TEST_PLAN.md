@@ -1,7 +1,7 @@
 # KẾ HOẠCH KIỂM THỬ (TEST PLAN)
 
 * **Dự án:** [Tên dự án Web cá nhân]
-* **Sinh viên:** [Họ và tên - MSSV]
+* **Sinh viên:** [Nguyễn Trí Lôc - TS03224]
 
 ---
 
